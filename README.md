@@ -127,6 +127,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
+* [DrumBeatRepo](https://github.com/babali42/drumbeatrepo) - A rhythm library for playing drum beats of differents music genres in the browser.
 * [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 * [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
@@ -155,7 +156,6 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Topos](https://topos.live) - a web based live coding environment (WebAudio / MIDI)
 * [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 * [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
-* [DrumBeatRepo](https://github.com/babali42/drumbeatrepo) - A rhythm library for playing drum beats of differents genres in the browser
 
 ## Music Theory Teaching
 
