@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Topos](https://topos.live) - a web based live coding environment (WebAudio / MIDI)
 * [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 * [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
+* [DrumBeatRepo](https://github.com/babali42/drumbeatrepo) - A rhythm library for playing drum beats of differents genres in the browser
 
 ## Music Theory Teaching
 
